@@ -1,0 +1,441 @@
+{
+    "menu": [
+        {
+            "name": "Pizza Bò & Tôm Nướng Kiểu Mỹ - Surf & Turf",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt Cà Chua, Xốt Phô Mai, Phô Mai Mozzarella, Tôm, Thịt Bò Mexico, Cà Chua, Hành Tây.",
+            "image": {
+                "small": "../../../assets/Surf-_-turf.jpg",
+                "big": "../../assets/Surf-_-turf-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Bò", "Hải sản"]
+        },
+        {
+            "name": "Pizza Bánh Xèo Nhật - Okonomiyaki",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Sốt Mayonnaise, Sốt Teriyaki, Phô Mai Mozzarella, Bạch Tuộc, Tôm, Bắp Cải, Bột Rong Biển, Vẩy Cá Ngừ Bào.",
+            "image": {
+                "small": "../../assets/Hình+product+gắn+tag+NEW-01.jpg",
+                "big": "../../assets/Detail_hình+chi+tiết+sp_bánh+xèo+nhật.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Hải sản"]
+        },
+        {
+            "name": "Pizza Thập Cẩm Thượng Hạng - Extravaganza",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt Cà Chua, Phô Mai Mozzarella, Xúc Xích Pepperoni, Thịt Dăm Bông, Xúc Xich Ý, Thịt Bò Viên, Ớt Chuông Xanh, Nấm Mỡ, Hành Tây, Ô-liu.",
+            "image": {
+                "small": "../../assets/Extravaganza.jpg",
+                "big": "../../assets/Extravaganza-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Bò", "Heo"]
+        },
+        {
+            "name": "Pizza Hải Sản Xốt Mayonnaise - Ocean Mania",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt Cà Chua, Phô Mai Mozzarella, Tôm, Mực, Thanh Cua, Hành Tây.",
+            "image": {
+                "small": "../../assets/Ocean-mania.jpg",
+                "big": "../../assets/Ocean-mania-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Hải sản"]
+        },
+        {
+            "name": "Pizza Hải Sản Nhiệt Đới Xốt Tiêu - Pizzamin Sea",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt tiêu đen, Phô Mai Mozzarella, Phô Mai Cheddar, Thơm, Hành Tây, Tôm, Mực.",
+            "image": {
+                "small": "../../assets/Pizzaminsea.jpg",
+                "big": "../../assets/Pizzaminsea-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Hải sản"]
+        },
+        {
+            "name": "Half Half",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Pizza là sự kết hợp topping của Pizza Ocean Mania và Pizza Cheesy Chicken Bacon.",
+            "image": {
+                "small": "../../assets/Haft-haft.jpg",
+                "big": "../../assets/Haft-haft-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Hải sản", "Gà", "Heo"]
+        },
+        {
+            "name": "Pizza 5 Loại Thịt Thượng Hạng - Meat Lovers",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt Cà Chua, Phô Mai Mozzarella, Xúc Xích Pepperoni, Thịt Dăm Bông, Xúc Xich Ý, Thịt Bò Viên, Thịt Heo Muối.",
+            "image": {
+                "small": "../../assets/Meat-lover.jpg",
+                "big": "../../assets/meat-lover-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Bò", "Heo"]
+        },
+        {
+            "name": "Pizza Xúc Xích Ý Truyền Thống - Pepperoni Feast",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt Cà Chua, Phô Mai Mozzarella, Xúc Xích Pepperoni.",
+            "image": {
+                "small": "../../assets/Pepperoni-feast-.jpg",
+                "big": "../../assets/Pepperoni-feast-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Heo"]
+        },
+        {
+            "name": "Pizza Gà Xốt Tương Kiểu Nhật - Teriyaki Chicken",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt Teriyaki, Phô Mai Mozzarella, Mayonnaise, Gà, Nấm Mỡ, Hành Tây.",
+            "image": {
+                "small": "../../assets/Teriyaki-chicken.jpg",
+                "big": "../../assets/Teriyaki-chicken-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Gà"]
+        },
+        {
+            "name": "Pizza Hải Sản Xốt Cà Chua - Seafood Delight",
+            "category": "Pizza",
+            "type": "premium",
+            "description": "Xốt Cà Chua, Phô Mai Mozzarella, Tôm, Mực, Thanh Cua, Hành Tây.",
+            "image": {
+                "small": "../../assets/Seafood-delight.jpg",
+                "big": "../../assets/Seafood-delight-detail.jpg"
+            },
+            "price": {
+                "small": "89.000",
+                "medium": "169.000",
+                "big": "259.000"
+            },
+            "filter": ["Hải sản"]
+        },
+        {
+            "name": "Pizza Rau Củ Thập Cẩm - Veggie Mania",
+            "category": "Pizza",
+            "type": "favorite",
+            "description": "Xốt Cà Chua Hoặc Xốt Pesto, Phô Mai Mozzarella, Hành Tây, Ớt Chuông Xanh, Ô-liu, Nấm Mỡ, Cà Chua, Thơm (dứa).",
+            "image": {
+                "small": "../../assets/Veggie-mania.jpg",
+                "big": "../../assets/Veggie-mania-detail.jpg"
+            },
+            "price": {
+                "small": "69.000",
+                "medium": "139.000",
+                "big": "209.000"
+            },
+            "filter": ["Chay"]
+        },
+        {
+            "name": "Pizza Dăm Bông Dứa Kiểu Hawaii - Hawaiian",
+            "category": "Pizza",
+            "type": "favorite",
+            "description": "Xốt Cà Chua, Phô Mai Mozzarella, Thịt Dăm Bông, Thơm.",
+            "image": {
+                "small": "../../assets/Hawaiian.jpg",
+                "big": "../../assets/Hawaiian-detail.jpg"
+            },
+            "price": {
+                "small": "69.000",
+                "medium": "139.000",
+                "big": "209.000"
+            },
+            "filter": ["Heo"]
+        },
+        {
+            "name": "Pizza Phô Mai Hảo Hạng - Cheese Mania",
+            "category": "Pizza",
+            "type": "favorite",
+            "description": "Xốt Cà Chua, phô Mai Mozzarella.",
+            "image": {
+                "small": "../../assets/Cheese-mania.jpg",
+                "big": "../../assets/Cheese-mania-detail.jpg"
+            },
+            "price": {
+                "small": "69.000",
+                "medium": "139.000",
+                "big": "209.000"
+            },
+            "filter": ["Chay"]
+        },
+        {
+            "name": "Pizza Gà Phô Mai Thịt Heo Xông Khói - Cheesy Chicken Bacon",
+            "category": "Pizza",
+            "type": "favorite",
+            "description": "Xốt Phô Mai, Thịt Gà, Thịt Heo Muối, Phô Mai Mozzarella, Cà Chua.",
+            "image": {
+                "small": "../../assets/Cheesy-chicken-bacon.jpg",
+                "big": "../../assets/Cheesy-chicken-bacon-detail.jpg"
+            },
+            "price": {
+                "small": "69.000",
+                "medium": "139.000",
+                "big": "209.000"
+            },
+            "filter": ["Gà", "Heo"]
+        },
+        {
+            "name": "Pizza Bò Mê-Hi-Cô Thượng Hạng - Prime Beef",
+            "category": "Pizza",
+            "type": "signature",
+            "description": "Xốt phô mai, Xốt cà chua, bò viên kiểu Ý, thịt bò Mexico, hành tây, cà chua, phô mai Mozzarella.",
+            "image": {
+                "small": "../../assets/Prime-beef.jpg",
+                "big": "../../assets/Prime-beef-detail.jpg"
+            },
+            "price": {
+                "small": "129.000",
+                "medium": "229.000",
+                "big": "329.000"
+            },
+            "filter": ["Bò"]
+        },
+        {
+            "name": "Pizza Hải Sản Kiểu Singapore - Singapore Style Seafood",
+            "category": "Pizza",
+            "type": "signature",
+            "description": "Xốt Singapore Cay, Phô Mai Mozzarella, Tôm, Thịt Cua, Hành Tây.",
+            "image": {
+                "small": "../../assets/Singapore-style-seafood.jpg",
+                "big": "../../assets/Singapore.jpg"
+            },
+            "price": {
+                "small": "129.000",
+                "medium": "229.000",
+                "big": "329.000"
+            },
+            "filter": ["Hải sản"]
+        },
+        {
+            "name": "Pizza 4 Vị - Pizza Big 4",
+            "category": "Pizza",
+            "type": "signature",
+            "description": "Pizza là sự kết hợp của 4 loại Pizza HAWAIIAN – OCEAN MANIA – TERIYAKI CHICKEN – SURF & TURF.",
+            "image": {
+                "small": "../../assets/4P.jpg",
+                "big": "../../assets/4P-detail.jpg"
+            },
+            "price": {
+                "small": "129.000",
+                "medium": "229.000",
+                "big": "329.000"
+            },
+            "filter": ["Bò", "Hải sản", "Gà", "Heo"]
+        },
+        {
+            "name": "Mì Ý Hải Sản Đút Lò",
+            "category": "Mì Ý",
+            "type": "Mì Ý",
+            "description": "Sauce mỳ cay nhẹ, tôm, thanh cua, mực, phô mai Mozzarella.",
+            "image": "../../assets/pasta-hải-sản.jpg",
+            "price": "79.000"
+        },
+        {
+            "name": "Mì Ý Rau Củ Đút Lò",
+            "category": "Mì Ý",
+            "type": "Mì Ý",
+            "description": "Sauce mỳ cay nhẹ, nấm, ớt chuông xanh, cà chua, dứa, Olive đen, phô mai Mozzarella.",
+            "image": "../../assets/pasta-rau-cu.jpg",
+            "price": "79.000"
+        },
+        {
+            "name": "Mì Ý Bò Bằm Đút Lò",
+            "category": "Mì Ý",
+            "type": "Mì Ý",
+            "description": "Sauce mỳ bò bằm, phô mai Mozzarella",
+            "image": "../../assets/pasta-bo-bam.jpg",
+            "price": "79.000"
+        },
+        {
+            "name": "Gà Không Xương BBQ",
+            "category": "Món phụ",
+            "type": "GÀ",
+            "description": "Gà Không Xương tẩm bột ăn cùng xốt BBQ ngon tuyệt.",
+            "image": "../../assets/MENU-PC_GÀ-KHÔNG-XƯƠNG-BBQ.jpg",
+            "price": "69.000"
+        },
+        {
+            "name": "Gà Tẩm Bột Phô Mai",
+            "category": "Món phụ",
+            "type": "GÀ",
+            "description": "Gà tẩm bột với phô mai thơm béo, phủ thêm lớp thịt heo xông khói ăn cùng với xốt BBQ.",
+            "image": "../../assets/MENU-PC_Gà-Tẩm-Bột-Phô-Mai.jpg",
+            "price": "69.000"
+        },
+        {
+            "name": "Cánh Gà BBQ Kiểu Mỹ (4 miếng)",
+            "category": "Món phụ",
+            "type": "GÀ",
+            "description": "Cánh gà nướng ăn kèm với xốt BBQ độc quyền.",
+            "image": "../../assets/MENU-PC_Cánh-Gà-BBQ-Kiểu-Mỹ-.jpg",
+            "price": "79.000"
+        },
+        {
+            "name": "Cánh Gà BBQ Kiểu Mỹ (6 miếng)",
+            "category": "Món phụ",
+            "type": "GÀ",
+            "description": "Cánh gà nướng ăn kèm với xốt BBQ độc quyền.",
+            "image": "../../assets/MENU-PC_Cánh-Gà-BBQ-Kiểu-Mỹ-.jpg",
+            "price": "99.000"
+        },
+        {
+            "name": "Xúc Xích Xông Khói Đút Lò (4 miếng)",
+            "category": "Món phụ",
+            "type": "XÚC XÍCH",
+            "description": "Xúc xích xông khói ăn kèm với xốt BBQ thơm ngon.",
+            "image": "../../assets/MENU-PC_Xúc-Xích-Xông-Khói-Đút-Lò+-+Copy.jpg",
+            "price": "39.000"
+        },
+        {
+            "name": "Xúc Xích Xông Khói Đút Lò (8 miếng)",
+            "category": "Món phụ",
+            "type": "XÚC XÍCH",
+            "description": "Xúc xích xông khói ăn kèm với xốt BBQ thơm ngon.",
+            "image": "../../assets/MENU-PC_Xúc-Xích-Xông-Khói-Đút-Lò+-+Copy.jpg",
+            "price": "69.000"
+        },
+        {
+            "name": "Khoai Tây Phô Mai Đút Lò",
+            "category": "Món phụ",
+            "type": "KHOAI TÂY",
+            "description": "Khoai tây cùng phô mai béo ngậy nướng qua lò với thịt heo hun khói.",
+            "image": "../../assets/MENU-PC_Khoai-Tây-Phô-Mai-Đút-Lò.jpg",
+            "price": "69.000"
+        },
+        {
+            "name": "Pizza Sô-Cô-La",
+            "category": "Tráng miệng",
+            "type": "TRÁNG MIỆNG",
+            "description": "Xốt kem, phô mai, Socola Sauce và Mix Socola Chip (đen+ trắng).",
+            "image": "../../assets/Choco-pizza.jpg",
+            "price": "59.000"
+        },
+        {
+            "name": "Lon coca zero 330ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/coke-zero.jpg",
+            "price": "20.000"
+        },
+        {
+            "name": "Chai coca 390ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/coke-390.jpg",
+            "price": "20.000"
+        },
+        {
+            "name": "Chai fanta 390ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/fanta-390.jpg",
+            "price": "20.000"
+        },
+        {
+            "name": "Chai sprite 390ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/sprite-390.jpg",
+            "price": "20.000"
+        },
+        {
+            "name": "Nước suối Dasani 500ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/daisani.jpg",
+            "price": "20.000"
+        },
+        {
+            "name": "Lon coca plus 330ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/coke-light.jpg",
+            "price": "20.000"
+        },
+        {
+            "name": "Trà chanh sả 350ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/chanh-sa.jpg",
+            "price": "25.000"
+        },
+        {
+            "name": "Trà đào hạt chia 350ml",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/dao-hat-chia.jpg",
+            "price": "25.000"
+        },
+        {
+            "name": "Chai Coca 1.5L",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/coke-1.5.jpg",
+            "price": "39.000"
+        },
+        {
+            "name": "Chai Fanta 1.5L",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/fanta-1.5.jpg",
+            "price": "39.000"
+        },
+        {
+            "name": "Chai Sprite 1.5L",
+            "category": "Nước uống",
+            "type": "GIẢI KHÁT",
+            "image": "../../assets/Sprite-1.5L.jpg",
+            "price": "39.000"
+        }
+    ]
+}
